@@ -14,7 +14,7 @@ It provides users with essential tools and options:
 - **Dock (optional):** Tint2  
 - **Terminal and Shell:** st + zsh (oh-my-zsh ready)  
 - **File Manager:** PCManFM  
-- **Web & Email:** LibreWolf with [PhantonFox user.js](https://github.com/MKDPrime/PhantomFox), Thunderbird  
+- **Web & Email:** LibreWolf with [PhantomFox user.js](https://github.com/MKDPrime/PhantomFox), Thunderbird  
 - **RSS Reader:** Liferea  
 - **Music / Video / Image:** cmus, mpv, nsxiv  
 - **PDF / Documents:** Okular, zathura  
